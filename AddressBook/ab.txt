@@ -1,0 +1,9 @@
+G G 3 a b
+B B 5 a b
+B A 2 a b
+F C 4 a b
+C A 1 a b
+A A 8 a b
+H F 6 a b
+C A 7 a b
+B H 2 a b
